@@ -164,6 +164,16 @@ automated clinical authority.
 
 ------------------------------------------------------------------------
 
+## 📂 Dataset
+
+The dataset is hosted externally due to GitHub's 100MB file limit.
+
+Download here:
+https://drive.google.com/uc?export=download&id=1oWSRdZuoT9YIBb4-UG2ZJ-6ijyIbErgK
+
+After downloading, place the file inside:
+
+data/raw/healthcare_dataset.csv
 # 📜 MIT License
 
 MIT License
