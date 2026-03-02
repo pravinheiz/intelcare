@@ -1,7 +1,23 @@
 # IntelCare Clinical System -- Complete Documentation
 
 **Author:** Heisnam Pravin Singh\
+**Copyright:** © 2026 Heisnam Pravin Singh. All rights reserved.
+
 **Generated on:** 2026-03-02 07:14:14
+
+------------------------------------------------------------------------
+
+# ⚖️ IMPORTANT LEGAL NOTICE
+
+**This software and its documentation are protected by copyright law.**
+
+Unauthorized copying, distribution, modification, or use of this software,
+in whole or in part, without explicit written permission from the author
+constitutes copyright infringement and may result in legal action.
+
+**Plagiarism warning:** Copying this work and presenting it as your own
+for academic, professional, or commercial purposes is strictly prohibited
+and will be pursued to the fullest extent of the law.
 
 ------------------------------------------------------------------------
 
@@ -357,20 +373,62 @@ The pre-trained Logistic Regression model is included in the repository:
 
 ------------------------------------------------------------------------
 
-# 📜 MIT License
+# 📜 Custom License: Academic & Personal Use Only
 
-MIT License
+**Copyright © 2026 Heisnam Pravin Singh. All Rights Reserved.**
 
-Copyright (c) 2026 Heisnam Pravin Singh
+## Permissions
 
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software.
+✅ **YOU MAY:**
+- Use this software for personal, academic, or research purposes
+- Modify the code for your own non-commercial use
+- Share the software with proper attribution to the original author
+- Include this software in academic projects with clear citation
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY.
+## Restrictions
+
+❌ **YOU MAY NOT:**
+- **Commercialize** - Sell, license, or use this software for commercial purposes
+- **Plagiarize** - Present this work as your own original creation
+- **Remove attribution** - Delete or obscure copyright notices
+- **Redistribute commercially** - Include in any commercial product or service
+
+## Attribution Requirement
+
+Any use of this software in academic or public contexts must include clear attribution:
+
+> "Based on IntelCare Clinical System by Heisnam Pravin Singh"
+
+## No Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+## Enforcement
+
+Unauthorized commercial use or plagiarism will be pursued as copyright infringement.
+
+------------------------------------------------------------------------
+
+# 🛡️ Anti-Plagiarism Statement
+
+This work is the original intellectual property of Heisnam Pravin Singh.
+Any attempt to present this work, in whole or in part, as one's own
+original creation constitutes plagiarism.
+
+**Plagiarism detection tools may be used to identify unauthorized copying.**
+
+If you use this software for academic purposes, you must properly cite it:
+
+```
+Heisnam Pravin Singh. (2026). IntelCare Clinical System [Computer software].
+```
+
+------------------------------------------------------------------------
+
+# 📧 Contact Information
+
+**Author:** Heisnam Pravin Singh
+
+For licensing inquiries, permission requests, or to report unauthorized use:
+- Email: pravinheisnam@nitmanipur.ac.in
+- GitHub: github.com/pravinheiz
