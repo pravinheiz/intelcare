@@ -431,4 +431,4 @@ Heisnam Pravin Singh. (2026). IntelCare Clinical System [Computer software].
 
 For licensing inquiries, permission requests, or to report unauthorized use:
 - Email: pravinheisnam@nitmanipur.ac.in
-- GitHub: github.com/pravinheiz
+- GitHub: www.github.com/pravinheiz
