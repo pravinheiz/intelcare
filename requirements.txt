@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+customtkinter
+pyttsx3
+SpeechRecognition
+reportlab
+pyaudio
+joblib

@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Large dataset (DO NOT TRACK)
+data/raw/healthcare_dataset.csv

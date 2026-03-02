@@ -1,0 +1,112 @@
+{
+    "history": [
+        "You (2026-03-02 09:29): fever",
+        "Condition: breast infection (mastitis)\nConfidence: 3.16% (Low)",
+        "You (2026-03-02 09:29): cold cough fever sore throat",
+        "Condition: oral mucosal lesion\nConfidence: 10.62% (Low)",
+        "You (2026-03-02 09:30): chest pain headache numbness",
+        "Condition: iridocyclitis\nConfidence: 2.72% (Low)",
+        "You (2026-03-02 09:32): cold, flu, cough, fever",
+        "Condition: oral mucosal lesion\nConfidence: 7.34% (Low Risk)",
+        "You (2026-03-02 09:56): hello",
+        "Condition: hemorrhoids\nConfidence: 0.58% (Low Risk)",
+        "Patient Input (2026-03-02 11:47): cold, flu, cough, fever",
+        "Clinical Assessment Summary\n\nPrimary Consideration: oral mucosal lesion\nEstimated Likelihood: 7.34%\n\nDifferential Considerations:\n- teething syndrome (4.39%)\n- lymphadenitis (3.71%)\n\nClinical Interpretation:\nReported symptoms (cough, fever) align with patterns observed in oral mucosal lesion.\n\nRecommended Specialty: General Medicine\n\nUrgency Level: Monitor symptoms and seek care if persistent.\n\nTrend Analysis: No historical data available.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional for diagnosis.",
+        "Patient Input (2026-03-02 11:57): hello hello hello",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nUrgency Level: Monitor symptoms and seek care if persistent.\n\nTrend Analysis: Most frequently recorded condition: oral mucosal lesion.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional for diagnosis.",
+        "Patient Input (2026-03-02 11:59): Gonorrhea",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: oral mucosal lesion.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:02): hello",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:02): Speech not recognized.",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:06): I have a cough and fever",
+        "Clinical Assessment Summary\n\nPrimary Consideration: oral mucosal lesion\nEstimated Likelihood: 7.34%\n\nDifferential Considerations:\n- teething syndrome (4.39%)\n- lymphadenitis (3.71%)\n\nClinical Interpretation:\nReported symptoms (cough, fever) correlate with patterns observed in oral mucosal lesion.\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:16): I have",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:16): I have",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:16): cold",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:30): hello I am under the water please help me",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:30): nose bleeding with excess of fatigue and call",
+        "Clinical Assessment Summary\n\nPrimary Consideration: multiple sclerosis\nEstimated Likelihood: 4.15%\n\nDifferential Considerations:\n- restless leg syndrome (2.65%)\n- psychosexual disorder (2.57%)\n\nClinical Interpretation:\nReported symptoms (fatigue) correlate with patterns observed in multiple sclerosis.\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only. Consult a licensed healthcare professional.",
+        "Patient Input (2026-03-02 12:34): very tired",
+        "Clinical Assessment Summary\n\nPrimary Consideration: hemorrhoids\nEstimated Likelihood: 0.58%\n\nDifferential Considerations:\n- osteoporosis (0.56%)\n- fracture of the shoulder (0.55%)\n\nRecommended Specialty: General Medicine\n\nTrend Analysis: Most frequently recorded condition: hemorrhoids.\n\nDisclaimer: This system provides informational support only."
+    ],
+    "structured": [
+        {
+            "Timestamp": "2026-03-02 11:47",
+            "Symptoms": "cold, flu, cough, fever",
+            "Primary Condition": "oral mucosal lesion",
+            "Confidence": "7.34%"
+        },
+        {
+            "Timestamp": "2026-03-02 11:57",
+            "Symptoms": "hello hello hello",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        },
+        {
+            "Timestamp": "2026-03-02 11:59",
+            "Symptoms": "Gonorrhea",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:02",
+            "Symptoms": "hello",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:02",
+            "Symptoms": "Speech not recognized.",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:06",
+            "Symptoms": "I have a cough and fever",
+            "Primary Condition": "oral mucosal lesion",
+            "Confidence": "7.34%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:16",
+            "Symptoms": "I have",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:16",
+            "Symptoms": "I have",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:16",
+            "Symptoms": "cold",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:30",
+            "Symptoms": "hello I am under the water please help me",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:30",
+            "Symptoms": "nose bleeding with excess of fatigue and call",
+            "Primary Condition": "multiple sclerosis",
+            "Confidence": "4.15%"
+        },
+        {
+            "Timestamp": "2026-03-02 12:34",
+            "Symptoms": "very tired",
+            "Primary Condition": "hemorrhoids",
+            "Confidence": "0.58%"
+        }
+    ]
+}
